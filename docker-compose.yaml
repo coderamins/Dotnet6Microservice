@@ -7,3 +7,4 @@ services:
       - 15672:15672
       - 4001:5672
     container_name: myrabbitcontainer
+    
